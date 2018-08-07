@@ -1,5 +1,5 @@
 # Classification Cardiac Arrhythmia
-Classification of the Cardiac Arrhythmia using Spark ML in Scala and LSTM network in Java. For the LSTM, DeepLearning4j has been used. 
+Classification of the Cardiac Arrhythmia using Spark ML in Scala and LSTM network in Java. This is the code for our paper titled "A Two-stage Big Data Analytics Framework with Real World Application using Spark ML and LSTM Networks" submitted to "Symmetry — Open Access Journal" (see http://www.mdpi.com/journal/symmetry). For the LSTM, DeepLearning4j has been used. 
 
 # How to use the repository
 ## For Spark ML: 
