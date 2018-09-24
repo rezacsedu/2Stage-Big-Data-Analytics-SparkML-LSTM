@@ -3,7 +3,7 @@ Classification of the Cardiac Arrhythmia and indentifying suspicious URLs for on
 This is the code for our paper titled "A Two-stage Big Data Analytics Framework with Real World Applications using Spark ML and LSTM Networks". This papers has been submitted to "Symmetry — Open Access Journal" (see http://www.mdpi.com/journal/symmetry). 
 
 # How to use the repository? 
-## For Spark ML: 
+## Spark MLlib-based classifers: 
 The following classifiers have been implemented to solve both the classification problems in a 2 stage cascading style:
 - Logistic Regression
 - Decision Trees
@@ -16,7 +16,7 @@ Make sure that Spark is properly configured. Also, you need to have Maven instal
 
 If everything is properly configured, you can create a uber jar containing all the dependencies and execute the jar. Alternatively, you can execute each implementation as a stand-alone Scala project from your favourite IDE. 
 
-## For DeepLearning4j: 
+## DeepLearning4j-based LSTM networks: 
 The Long Short-term Memory (LSTM) network has been implemented to solve the classification problem. The following are prerequisites when working with DL4J:
 - Java 1.8+ (64-bit only)
 - Apache Maven for automated build and dependency manager
