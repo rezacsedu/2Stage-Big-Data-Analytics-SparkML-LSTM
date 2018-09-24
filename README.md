@@ -1,8 +1,8 @@
+# How to use this repository? 
 Classification of the Cardiac Arrhythmia and indentifying suspicious URLs for online learning using Spark ML in Scala and LSTM network in Scala and Java. However, for the LSTM, DeepLearning4j has been used. 
 
 This is the code for our paper titled "A Two-stage Big Data Analytics Framework with Real World Applications using Spark ML and LSTM Networks". This papers has been submitted to "Symmetry — Open Access Journal" (see http://www.mdpi.com/journal/symmetry). 
 
-# How to use this repository? 
 ## Spark MLlib-based classifers: 
 The following classifiers have been implemented to solve both the classification problems in a 2 stage cascading style:
 - Logistic Regression
