@@ -24,5 +24,15 @@ The Long Short-term Memory (LSTM) network has been implemented to solve the clas
 
 For more information on how to configure DeepLearning4j, please refer to https://deeplearning4j.org/. If everything is properly configured, you can create a uber jar containing all the dependencies and execute the jar. Alternatively, you can execute each implementation as a stand-alone Java project from your favourite IDE. 
 
-# Contact
-If you've any issues or have any question, please write an email to rezaul.karim@rwth-aachen.de. 
+## Citation request
+If you reuse this implementation, please cite our paper: 
+
+    @inproceedings{khan2018bigdata,
+        title={A Two-stage Big Data Analytics Framework with Real World Applications using Spark ML and LSTM Networks},
+        author={M. A., Khan; Karim, Md. Rezaul; Y. Kim },
+        booktitle={Symmetry — Open Access Journal},
+        year={2018}
+    }
+
+## Contributing
+For any questions, feel free to open an issue or contact at rezaul.karim@rwth-aachen.de
